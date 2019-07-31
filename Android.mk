@@ -16,7 +16,7 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE), hannah)
+ifeq ($(TARGET_DEVICE), z5151)
 
 include $(call all-makefiles-under,$(LOCAL_PATH))
 

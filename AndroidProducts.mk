@@ -15,5 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-	$(LOCAL_DIR)/omni_hannah.mk \
-	$(LOCAL_DIR)/full_hannah.mk
+	$(LOCAL_DIR)/omni_z5151.mk
