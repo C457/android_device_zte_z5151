@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-	$(LOCAL_DIR)/omni_z5151.mk
+	$(LOCAL_DIR)/lineage_z5151.mk
